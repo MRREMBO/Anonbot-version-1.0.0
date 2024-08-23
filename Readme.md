@@ -1,7 +1,7 @@
 <p align="center">
  <a href="https://github.com/MRREMBO">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=150&color=48006E&vCenter=true&width=650&height=200&lines=ANON-BOT"
+            src="https://readme-typing-svg.herokuapp.com?size=150&color=48006E&vCenter=true&width=650&height=200&lines=ANONBOT"
             alt="anon"
         />
     </a>
@@ -10,7 +10,7 @@
 <p align="center">
     <a href="https://github.com/MRREMBO">
         <img
-            src="https://readme-typing-svg.herokuapp.com/?size=15&width=215&color=48006E&vCenter=true&lines=Thanks+for+using+Anon-BOT!"
+            src="https://readme-typing-svg.herokuapp.com/?size=15&width=215&color=48006E&vCenter=true&lines=MAKE+YOUR+LIFE+MORE+EFFICIENT!"
             alt="anon"
         />
     </a>
@@ -42,15 +42,15 @@
   <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/#about">About</a> •
   <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/#thanks-to">Thanks to</a> •
   <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/#donasi">Donate</a></br> •
-  <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/#grup-anon-bot"> Official Saluran Bot</a> •
+  <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/#Saluran Anonbot"> Saluran Official AnonBot</a> •
 
 </p>
 
 ## About
-Anon-BOT adalah pengembangan sourcecode yang bersumber dari Script Devil
+ANONBOT adalah pengembangan sourcecode yang bersumber dari Script Devil
 
-## Grup Anon-BOT
-[![Anon-BOT GROUP](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaefNUh8fewkWweWk535)
+## Saluran Official AnonBot
+[![SALURAN ANONBOT](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaefNUh8fewkWweWk535)
 
 # Donasi
 - Dana   : 08388886755
@@ -68,6 +68,7 @@ Anon-BOT adalah pengembangan sourcecode yang bersumber dari Script Devil
 
 
 #### Special Thanks to
-[![simbey7](https://github.com/simbey7.png?size=100)](https://github.com/simbey7)
+[![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
 [![vnxzyz](https://github.com/vnxzyz.png?size=100)](https://github.com/vnxzyz)
+[![MRREMBO](https://github.com/MRREMBO.png?size=100)](https://github.com/MRREMBO)
