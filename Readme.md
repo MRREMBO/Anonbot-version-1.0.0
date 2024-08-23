@@ -20,9 +20,6 @@
 <a href="https://github.com/MRREMBO"><img title="Creator" src="https://img.shields.io/badge/Creator-MRREMBO-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://visitor-badge.glitch.me/badge?page_id=MRREMBO/Anonbot-version-1.0.0"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=MRREMBO/Anonbot-version-1.0.0"></a>
-</p>
-<p align="center">
 <a href="https://github.com/MRREMBO/followers"><img title="Followers" src="https://img.shields.io/github/followers/MRREMBO?color=red&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRREMBO/Anonbot-version-1.0.0?color=yellow&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRREMBO/Anonbot-version-1.0.0?color=red&style=flat-square"></a>
@@ -30,7 +27,7 @@
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0"><img title="Open Source" src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/"><img title="Size" src="https://img.shields.io/github/repo-size/MRREMBO/Anonbot-version-1.0.0?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/MRREMBO/Anonbot-version-1.0.0/&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-No-green.svg"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/graphs/contributors"><img title="Contributors" src="https://img.shields.io/github/contributors/MRREMBO/Anonbot-version-1.0.0?label=Contributors&color=blue&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/issues"><img title="Issues" src="https://img.shields.io/github/issues/MRREMBO/Anonbot-version-1.0.0?label=Issues&color=success&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/issues?q=is%3Aissue+is%3Aclosed"><img title="Issues" src="https://img.shields.io/github/issues-closed/MRREMBO/Anonbot-version-1.0.0?label=Issues&color=red&style=flat-square"></a>
