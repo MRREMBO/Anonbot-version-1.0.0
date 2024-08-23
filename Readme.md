@@ -23,7 +23,7 @@
 <a href="https://visitor-badge.glitch.me/badge?page_id=MRREMBO/Anonbot-version-1.0.0"><img title="Visitor" src="https://visitor-badge.glitch.me/badge?page_id=MRREMBO/Anonbot-version-1.0.0"></a>
 </p>
 <p align="center">
-<a href="https://github.com/MRREMBO/followers"><img title="Followers" src="https://img.shields.io/github/followers/balhisyhrl?color=red&style=flat-square"></a>
+<a href="https://github.com/MRREMBO/followers"><img title="Followers" src="https://img.shields.io/github/followers/MRREMBO?color=red&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRREMBO/Anonbot-version-1.0.0?color=yellow&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRREMBO/Anonbot-version-1.0.0?color=red&style=flat-square"></a>
 <a href="https://github.com/MRREMBO/Anonbot-version-1.0.0/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MRREMBO/Anonbot-version-1.0.0?label=Watchers&color=blue&style=flat-square"></a>
@@ -70,5 +70,5 @@ ANONBOT adalah pengembangan sourcecode yang bersumber dari Script Devil
 #### Special Thanks to
 [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets)
 [![BochilGaming](https://github.com/BochilGaming.png?size=100)](https://github.com/BochilGaming)
-[![vnxzyz](https://github.com/vnxzyz.png?size=100)](https://github.com/vnxzyz)
+[![vnxzyz](https://github.com/vnxzyz.png?size=50)](https://github.com/vnxzyz)
 [![MRREMBO](https://github.com/MRREMBO.png?size=100)](https://github.com/MRREMBO)
